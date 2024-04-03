@@ -1,0 +1,9 @@
+html {
+  display: grid;
+  place-items: center;
+}
+
+#time {
+  font-family: Vienna Free;
+  font-size: 300px;
+}
